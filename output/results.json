@@ -1,0 +1,7 @@
+{
+ "train_accuracy": 0.8102893890675241,
+ "test_accuracy": 0.7948717948717948,
+ "generate_rank_model_acc": 0.9266666666666666,
+ "generate_rank_random_acc": 0.5096666666666667,
+ "n_eval_observations": 150
+}

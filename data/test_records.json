@@ -1,0 +1,6554 @@
+[
+ {
+  "obs_id": 0,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 0,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 0,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 1,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 1,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 1,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 1,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 1,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 2,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 2,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 2,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 2,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 2,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 2,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 2,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 3,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 3,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 3,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 3,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 3,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 3,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 4,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 4,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 4,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 4,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 4,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 5,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 5,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 5,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 5,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 6,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 6,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 6,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 6,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 6,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 6,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 6,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 7,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 7,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 7,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 7,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 7,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 7,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 7,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 8,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 8,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 8,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 8,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 8,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 9,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 9,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 9,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 9,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 10,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 10,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 10,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 10,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 10,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 10,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 10,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 10,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 10,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 11,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 11,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 11,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 11,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 11,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 12,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 12,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 12,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 12,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 12,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 13,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 13,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 13,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 13,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 13,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 13,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 13,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 14,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 14,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 14,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 14,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 15,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 15,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 15,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 15,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 15,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 16,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 16,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 16,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 16,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 17,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 17,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 17,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 17,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 17,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 17,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 17,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 18,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 18,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 18,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 18,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 18,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 18,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 18,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 18,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 18,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 19,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 19,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 19,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 19,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 19,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 20,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 20,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 20,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 20,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 20,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 21,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 21,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 21,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 21,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 21,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 22,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 22,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 22,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 22,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 22,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 22,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 22,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 22,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 22,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 23,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 23,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 23,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 23,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 23,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 24,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 24,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 24,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 24,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 24,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 24,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 25,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 25,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 25,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 25,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 25,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 26,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 26,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 26,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 26,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 26,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 27,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 27,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 27,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 27,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 27,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 27,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 28,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 28,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 28,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 28,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 28,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 28,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 28,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 28,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 28,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 29,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 29,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 29,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 29,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 29,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 30,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 30,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 30,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 30,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 31,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 31,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 31,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 31,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 31,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 32,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 32,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 32,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 32,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 32,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 32,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 32,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 32,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 32,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 33,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 33,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 33,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 33,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 33,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 34,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 34,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 34,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 34,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 34,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 34,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 35,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 35,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 35,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 35,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 35,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 36,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 36,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 36,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 36,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 36,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 37,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 37,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 37,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 38,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 38,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 38,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 38,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 38,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 38,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 38,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 38,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 38,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 39,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 39,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 39,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 39,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 39,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 40,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 40,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 40,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 40,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 40,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 41,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 41,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 41,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 41,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 41,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 41,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 41,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 42,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 42,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 42,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 42,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 42,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 42,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 43,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 43,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 43,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 43,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 43,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 44,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 44,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 44,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 44,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 44,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 44,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 45,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 45,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 45,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 45,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 45,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 46,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 46,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 46,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 46,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 46,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 47,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 47,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 47,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 47,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 48,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 48,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 48,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 48,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 48,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 49,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 49,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 49,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 49,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 49,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 50,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 50,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 50,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 50,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 50,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 51,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 51,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 51,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 51,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 51,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 52,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 52,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 52,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 52,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 52,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 53,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 53,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 53,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 53,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 53,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 54,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 54,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 54,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 54,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 54,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 55,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 55,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 55,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 56,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 56,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 56,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 56,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 56,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 57,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 57,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 57,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 57,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 58,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 58,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 58,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 58,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 58,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 58,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 58,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 58,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 58,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 59,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 59,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 59,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 59,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 59,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 60,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 60,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 60,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 60,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 60,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 60,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 60,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 60,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 60,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 61,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 61,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 61,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 61,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 61,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 62,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 62,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 62,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 62,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 62,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 62,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 63,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 63,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 63,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 63,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 63,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 64,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 64,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 64,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 64,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 64,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 64,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 64,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 65,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 65,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 65,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 65,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 66,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 66,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 66,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 66,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 67,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 67,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 67,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 67,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 67,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 68,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 68,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 68,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 68,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 68,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 69,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 69,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 69,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 69,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 69,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 70,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 70,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 70,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 70,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 70,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 71,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 71,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 71,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 71,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 71,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 71,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 71,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 72,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 72,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 72,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 72,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 72,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 72,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 72,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 72,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 72,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 73,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 73,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 73,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 73,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 73,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 74,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 74,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 74,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 74,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 75,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 75,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 75,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 75,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 75,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 76,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 76,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 76,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 76,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 76,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 76,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 76,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 76,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 76,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 77,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 77,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 77,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 77,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 78,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 78,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 78,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 78,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 78,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 79,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 79,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 79,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 79,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 80,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 80,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 80,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 80,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 80,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 81,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 81,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 81,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 81,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 81,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 82,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 82,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 82,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 82,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 82,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 82,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 82,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 82,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 83,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 83,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 83,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 83,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 83,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 84,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 84,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 84,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 84,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 84,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 85,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 85,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 85,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 85,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 85,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 85,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 85,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 86,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 86,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 86,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 86,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 86,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 87,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 87,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 87,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 87,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 87,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 88,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 88,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 88,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 88,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 89,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 89,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 89,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 89,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 89,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 90,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 90,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 90,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 90,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 91,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 91,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 91,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 91,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 91,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 92,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 92,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 92,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 92,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 92,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 93,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 93,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 93,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 93,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 93,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 93,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 94,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 94,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 94,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 94,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 94,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 94,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 94,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 95,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 95,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 95,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 95,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 96,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 96,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 96,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 96,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 97,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 97,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 97,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 97,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 97,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 98,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 98,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 98,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 98,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 98,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 99,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 99,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 99,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 99,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 99,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 99,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 99,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 100,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 100,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 100,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 100,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 100,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 100,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 101,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 101,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 101,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 101,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 101,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 101,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 101,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 101,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 101,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 102,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 102,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 102,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 102,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 102,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 102,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 102,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 103,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 103,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 103,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 103,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 103,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 104,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 104,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 104,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 104,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 105,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 105,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 105,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 105,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 105,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 105,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 106,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 106,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 106,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 106,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 106,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 106,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 106,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 107,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 107,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 107,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 107,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 107,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 108,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 108,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 108,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 108,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 108,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 109,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 109,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 109,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 109,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 110,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 110,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 110,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 110,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 110,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 111,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 111,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 111,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 111,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 111,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 112,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 112,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 112,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 112,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 112,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 113,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 113,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 113,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 113,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 113,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 113,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 113,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 114,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 114,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 114,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 114,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 115,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 115,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 115,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 115,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 115,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 116,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 116,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 116,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 116,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 116,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 117,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 117,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 117,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 117,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 117,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 118,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 118,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 118,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 118,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 118,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 119,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 119,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 119,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 119,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 119,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 119,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 119,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 119,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 120,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 120,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 120,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 120,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 120,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 120,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 121,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 121,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 121,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 121,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 121,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 121,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 122,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 122,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 122,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 122,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 123,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 123,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 123,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 123,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 123,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 124,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 124,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 124,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 124,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 124,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 124,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 124,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 125,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 125,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 125,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 125,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 125,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 126,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 126,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 126,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 126,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 126,
+  "gene": "G4",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 126,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 127,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 127,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 127,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 127,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 127,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 128,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 128,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 128,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 128,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 128,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 129,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 129,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 129,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 129,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 130,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 130,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 130,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 130,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 130,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 131,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 131,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 131,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 131,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 131,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 132,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 132,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 132,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 132,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 132,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 133,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 133,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 133,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 133,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 134,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 134,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 134,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 134,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 135,
+  "gene": "G2",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 135,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 135,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 135,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 135,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 136,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 136,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 136,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 136,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 136,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 137,
+  "gene": "G3",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 137,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 137,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 137,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 137,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 138,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 0
+ },
+ {
+  "obs_id": 138,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 138,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 138,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 138,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 139,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 139,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 139,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 139,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 140,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 140,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 140,
+  "gene": "G7",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 140,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 140,
+  "gene": "G0",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 141,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 141,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 141,
+  "gene": "G1",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 141,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 141,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 142,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 142,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 142,
+  "gene": "G4",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 142,
+  "gene": "G1",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 142,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 143,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 143,
+  "gene": "G3",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 143,
+  "gene": "G2",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 143,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 144,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 144,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 144,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 144,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 145,
+  "gene": "G1",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 145,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 145,
+  "gene": "G6",
+  "pathway": "P2",
+  "phenotype": "H2",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 145,
+  "gene": "G7",
+  "pathway": "P3",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 145,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 145,
+  "gene": "G7",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 146,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 146,
+  "gene": "G2",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 146,
+  "gene": "G3",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 146,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 146,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 146,
+  "gene": "G5",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 146,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 146,
+  "gene": "G4",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 146,
+  "gene": "G6",
+  "pathway": "P3",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 147,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 147,
+  "gene": "G0",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 147,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 147,
+  "gene": "G1",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 147,
+  "gene": "G5",
+  "pathway": "P3",
+  "phenotype": "H2",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 148,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 148,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 148,
+  "gene": "G2",
+  "pathway": "P1",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 148,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 149,
+  "gene": "G0",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 1,
+  "label": 1
+ },
+ {
+  "obs_id": 149,
+  "gene": "G0",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 149,
+  "gene": "G5",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 1
+ },
+ {
+  "obs_id": 149,
+  "gene": "G5",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 149,
+  "gene": "G6",
+  "pathway": "P0",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 149,
+  "gene": "G6",
+  "pathway": "P1",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 149,
+  "gene": "G4",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 149,
+  "gene": "G7",
+  "pathway": "P2",
+  "phenotype": "H1",
+  "is_true_match": 0,
+  "label": 0
+ },
+ {
+  "obs_id": 149,
+  "gene": "G3",
+  "pathway": "P2",
+  "phenotype": "H0",
+  "is_true_match": 0,
+  "label": 0
+ }
+]

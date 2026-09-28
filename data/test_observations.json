@@ -1,0 +1,5884 @@
+[
+ {
+  "id": 0,
+  "gene_level": {
+   "G0": 2,
+   "G1": 0,
+   "G2": 0,
+   "G3": 0,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 1,
+  "gene_level": {
+   "G0": 2,
+   "G1": 1,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 1,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 2,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 1,
+   "G3": 0,
+   "G4": 0,
+   "G5": 3,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 2,
+   "P2": 1,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P1",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 3,
+  "gene_level": {
+   "G0": 3,
+   "G1": 0,
+   "G2": 2,
+   "G3": 0,
+   "G4": 1,
+   "G5": 1,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 0,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G2"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 4,
+  "gene_level": {
+   "G0": 1,
+   "G1": 2,
+   "G2": 3,
+   "G3": 1,
+   "G4": 0,
+   "G5": 1,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G1",
+   "G2"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 5,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 0,
+   "G3": 1,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 3,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 6,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 3,
+   "G3": 2,
+   "G4": 0,
+   "G5": 1,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G2",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 7,
+  "gene_level": {
+   "G0": 3,
+   "G1": 1,
+   "G2": 0,
+   "G3": 2,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 1,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 8,
+  "gene_level": {
+   "G0": 3,
+   "G1": 1,
+   "G2": 1,
+   "G3": 1,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 9,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 1,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 2,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 10,
+  "gene_level": {
+   "G0": 1,
+   "G1": 2,
+   "G2": 3,
+   "G3": 0,
+   "G4": 0,
+   "G5": 1,
+   "G6": 3,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 2,
+   "P2": 0,
+   "P3": 3
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G2",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P1",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 11,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 1,
+   "G3": 0,
+   "G4": 1,
+   "G5": 1,
+   "G6": 3,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 2,
+   "P2": 1,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 12,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 1,
+   "G3": 2,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 3,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 13,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 3,
+   "G3": 1,
+   "G4": 2,
+   "G5": 0,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 3,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G4"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 14,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 0,
+   "G3": 2,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 15,
+  "gene_level": {
+   "G0": 3,
+   "G1": 1,
+   "G2": 0,
+   "G3": 3,
+   "G4": 0,
+   "G5": 0,
+   "G6": 1,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 16,
+  "gene_level": {
+   "G0": 2,
+   "G1": 0,
+   "G2": 1,
+   "G3": 1,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 1,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 17,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 3,
+   "G3": 0,
+   "G4": 1,
+   "G5": 1,
+   "G6": 1,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 2,
+   "P2": 1,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 18,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 1,
+   "G3": 2,
+   "G4": 0,
+   "G5": 0,
+   "G6": 2,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 3,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G3",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 19,
+  "gene_level": {
+   "G0": 1,
+   "G1": 1,
+   "G2": 1,
+   "G3": 3,
+   "G4": 0,
+   "G5": 0,
+   "G6": 1,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 2,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 20,
+  "gene_level": {
+   "G0": 3,
+   "G1": 1,
+   "G2": 2,
+   "G3": 1,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 1,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G2"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 21,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 0,
+   "G3": 3,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 2,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 22,
+  "gene_level": {
+   "G0": 2,
+   "G1": 0,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 2,
+   "G6": 2,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 1,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G0",
+   "G5",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 23,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 3,
+   "G3": 1,
+   "G4": 0,
+   "G5": 3,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 1,
+   "P3": 3
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G2",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 24,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 2,
+   "G3": 0,
+   "G4": 1,
+   "G5": 2,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G1",
+   "G2",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 25,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 2,
+   "G3": 1,
+   "G4": 0,
+   "G5": 1,
+   "G6": 2,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 1,
+   "P2": 1,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 26,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 0,
+   "G3": 1,
+   "G4": 1,
+   "G5": 3,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 2,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 27,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 0,
+   "G3": 3,
+   "G4": 0,
+   "G5": 3,
+   "G6": 0,
+   "G7": 2
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3",
+   "G5",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 28,
+  "gene_level": {
+   "G0": 2,
+   "G1": 0,
+   "G2": 1,
+   "G3": 2,
+   "G4": 3,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 1,
+   "P3": 3
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G3",
+   "G4"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 29,
+  "gene_level": {
+   "G0": 3,
+   "G1": 2,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 1,
+   "G6": 1,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 3,
+   "P2": 1,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G1"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 30,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 3,
+   "G3": 0,
+   "G4": 0,
+   "G5": 1,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 31,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 3,
+   "G3": 1,
+   "G4": 0,
+   "G5": 1,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 3,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G2"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 32,
+  "gene_level": {
+   "G0": 3,
+   "G1": 1,
+   "G2": 1,
+   "G3": 3,
+   "G4": 0,
+   "G5": 0,
+   "G6": 3,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 2,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G3",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 33,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 1,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 1,
+   "G7": 2
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 3,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 34,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 2,
+   "G3": 0,
+   "G4": 0,
+   "G5": 3,
+   "G6": 2,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 1,
+   "P2": 1,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G5",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 35,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 1,
+   "G3": 3,
+   "G4": 0,
+   "G5": 0,
+   "G6": 3,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 3,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G3",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 36,
+  "gene_level": {
+   "G0": 2,
+   "G1": 0,
+   "G2": 0,
+   "G3": 2,
+   "G4": 0,
+   "G5": 1,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 1,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 37,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 0,
+   "G3": 0,
+   "G4": 1,
+   "G5": 1,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 2,
+   "P2": 1,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 38,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 0,
+   "G3": 3,
+   "G4": 3,
+   "G5": 0,
+   "G6": 0,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 3,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3",
+   "G4",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P2",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 39,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 0,
+   "G3": 1,
+   "G4": 1,
+   "G5": 2,
+   "G6": 3,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 0,
+   "P3": 3
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G5",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 40,
+  "gene_level": {
+   "G0": 3,
+   "G1": 2,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 3,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G1"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 41,
+  "gene_level": {
+   "G0": 1,
+   "G1": 3,
+   "G2": 3,
+   "G3": 0,
+   "G4": 1,
+   "G5": 0,
+   "G6": 1,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 2,
+   "P2": 1,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G1",
+   "G2"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 42,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 3,
+   "G3": 0,
+   "G4": 2,
+   "G5": 2,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G4",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 43,
+  "gene_level": {
+   "G0": 1,
+   "G1": 3,
+   "G2": 0,
+   "G3": 1,
+   "G4": 1,
+   "G5": 0,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 2,
+   "P2": 0,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1"
+  ],
+  "elevated_pathways": [
+   "P1",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 44,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 0,
+   "G3": 3,
+   "G4": 0,
+   "G5": 1,
+   "G6": 2,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3",
+   "G6",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 45,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 1,
+   "G3": 2,
+   "G4": 1,
+   "G5": 0,
+   "G6": 2,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 1,
+   "P2": 2,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G3",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 46,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 1,
+   "G3": 0,
+   "G4": 0,
+   "G5": 2,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 2,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P2",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 47,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 0,
+   "G3": 1,
+   "G4": 0,
+   "G5": 2,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 0,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 48,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 3,
+   "G3": 1,
+   "G4": 0,
+   "G5": 2,
+   "G6": 1,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 1,
+   "P2": 1,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G2",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 49,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 1,
+   "G3": 0,
+   "G4": 3,
+   "G5": 0,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 3,
+   "P2": 1,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G4"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 50,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 3,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 2,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 1,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 51,
+  "gene_level": {
+   "G0": 3,
+   "G1": 3,
+   "G2": 1,
+   "G3": 1,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G1"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 52,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 2,
+   "G3": 2,
+   "G4": 1,
+   "G5": 1,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 3,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G2",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 53,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 0,
+   "G3": 0,
+   "G4": 2,
+   "G5": 1,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 3,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G4"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 54,
+  "gene_level": {
+   "G0": 2,
+   "G1": 1,
+   "G2": 0,
+   "G3": 2,
+   "G4": 1,
+   "G5": 1,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 55,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 3,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 1,
+   "P3": 3
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 56,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 0,
+   "G3": 2,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 2,
+   "P2": 1,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 57,
+  "gene_level": {
+   "G0": 2,
+   "G1": 1,
+   "G2": 1,
+   "G3": 1,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 1,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 58,
+  "gene_level": {
+   "G0": 3,
+   "G1": 1,
+   "G2": 3,
+   "G3": 0,
+   "G4": 0,
+   "G5": 3,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 3,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G2",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 59,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 2,
+   "G3": 1,
+   "G4": 0,
+   "G5": 2,
+   "G6": 1,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 1,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 60,
+  "gene_level": {
+   "G0": 1,
+   "G1": 2,
+   "G2": 1,
+   "G3": 0,
+   "G4": 2,
+   "G5": 0,
+   "G6": 3,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G1",
+   "G4",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 61,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 2,
+   "G3": 1,
+   "G4": 3,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 1,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G4"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 62,
+  "gene_level": {
+   "G0": 3,
+   "G1": 0,
+   "G2": 1,
+   "G3": 3,
+   "G4": 0,
+   "G5": 2,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G3",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 63,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 3,
+   "G3": 1,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 1,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G1",
+   "G2"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 64,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 1,
+   "G3": 0,
+   "G4": 1,
+   "G5": 3,
+   "G6": 0,
+   "G7": 2
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 1,
+   "P2": 3,
+   "P3": 3
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G5",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P2",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 65,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 0,
+   "G3": 3,
+   "G4": 0,
+   "G5": 1,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 66,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 1,
+   "G3": 1,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 3,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 67,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 3,
+   "G3": 0,
+   "G4": 0,
+   "G5": 1,
+   "G6": 2,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 2,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G6",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 68,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 2,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G1",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 69,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 1,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 2
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 3,
+   "P2": 1,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 70,
+  "gene_level": {
+   "G0": 3,
+   "G1": 0,
+   "G2": 0,
+   "G3": 0,
+   "G4": 1,
+   "G5": 0,
+   "G6": 1,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 71,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 0,
+   "G3": 2,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 2,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P2",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 72,
+  "gene_level": {
+   "G0": 2,
+   "G1": 3,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 1,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 3,
+   "P2": 1,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G1",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 73,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 0,
+   "G3": 2,
+   "G4": 0,
+   "G5": 0,
+   "G6": 3,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G3",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 74,
+  "gene_level": {
+   "G0": 2,
+   "G1": 1,
+   "G2": 0,
+   "G3": 3,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 75,
+  "gene_level": {
+   "G0": 2,
+   "G1": 0,
+   "G2": 1,
+   "G3": 1,
+   "G4": 0,
+   "G5": 0,
+   "G6": 3,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 1,
+   "P2": 1,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 76,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 3,
+   "G3": 3,
+   "G4": 3,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 3,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G3",
+   "G4"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 77,
+  "gene_level": {
+   "G0": 3,
+   "G1": 0,
+   "G2": 1,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 1,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 78,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 0,
+   "G3": 3,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 2,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 79,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 1,
+   "G3": 0,
+   "G4": 0,
+   "G5": 2,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 1,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 80,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 1,
+   "G3": 0,
+   "G4": 2,
+   "G5": 2,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 1,
+   "P3": 3
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G4",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 81,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 1,
+   "G3": 0,
+   "G4": 1,
+   "G5": 2,
+   "G6": 3,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 1,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G5",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 82,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 2,
+   "G3": 0,
+   "G4": 1,
+   "G5": 2,
+   "G6": 3,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 1,
+   "P2": 1,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G2",
+   "G5",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 83,
+  "gene_level": {
+   "G0": 2,
+   "G1": 0,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 1,
+   "G6": 3,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 2,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G0",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 84,
+  "gene_level": {
+   "G0": 3,
+   "G1": 0,
+   "G2": 0,
+   "G3": 0,
+   "G4": 1,
+   "G5": 0,
+   "G6": 1,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 85,
+  "gene_level": {
+   "G0": 3,
+   "G1": 0,
+   "G2": 1,
+   "G3": 1,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 3,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 86,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 0,
+   "G3": 1,
+   "G4": 1,
+   "G5": 0,
+   "G6": 2,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 3,
+   "P3": 3
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 87,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 0,
+   "G3": 3,
+   "G4": 0,
+   "G5": 3,
+   "G6": 1,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 0,
+   "P3": 3
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 88,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 1,
+   "G6": 2,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 2,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 89,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 0,
+   "G3": 3,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 90,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 1,
+   "G3": 0,
+   "G4": 0,
+   "G5": 1,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 3,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 91,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 2,
+   "G3": 1,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 2
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 1,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 92,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 1,
+   "G6": 2,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 3,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G1",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 93,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 2,
+   "G3": 1,
+   "G4": 2,
+   "G5": 1,
+   "G6": 3,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G4",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 94,
+  "gene_level": {
+   "G0": 3,
+   "G1": 0,
+   "G2": 0,
+   "G3": 1,
+   "G4": 0,
+   "G5": 0,
+   "G6": 1,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 0,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 95,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 0,
+   "G3": 1,
+   "G4": 0,
+   "G5": 1,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 3,
+   "P2": 1,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 96,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 2,
+   "G3": 0,
+   "G4": 1,
+   "G5": 1,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 97,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 1,
+   "G3": 1,
+   "G4": 1,
+   "G5": 3,
+   "G6": 3,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 0,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G5",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 98,
+  "gene_level": {
+   "G0": 2,
+   "G1": 1,
+   "G2": 2,
+   "G3": 1,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 1,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G0",
+   "G2"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 99,
+  "gene_level": {
+   "G0": 3,
+   "G1": 0,
+   "G2": 1,
+   "G3": 2,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 100,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 0,
+   "G3": 0,
+   "G4": 1,
+   "G5": 3,
+   "G6": 3,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G5",
+   "G6",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 101,
+  "gene_level": {
+   "G0": 2,
+   "G1": 3,
+   "G2": 0,
+   "G3": 2,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 1,
+   "P2": 3,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G1",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 102,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 1,
+   "G3": 1,
+   "G4": 1,
+   "G5": 1,
+   "G6": 3,
+   "G7": 2
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 2,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G6",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P2",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 103,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 2,
+   "G3": 1,
+   "G4": 1,
+   "G5": 1,
+   "G6": 1,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 1,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 104,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 3,
+   "G3": 1,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 105,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 0,
+   "G3": 2,
+   "G4": 2,
+   "G5": 0,
+   "G6": 2,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G3",
+   "G4",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 106,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 3,
+   "G3": 1,
+   "G4": 3,
+   "G5": 0,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 1,
+   "P2": 3,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G4"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 107,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 3,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 2,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 108,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 0,
+   "G3": 2,
+   "G4": 1,
+   "G5": 0,
+   "G6": 3,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 109,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 2,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 1,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 110,
+  "gene_level": {
+   "G0": 3,
+   "G1": 0,
+   "G2": 1,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 2,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 111,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 2,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 1,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 1,
+   "P2": 1,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 112,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 3,
+   "G3": 0,
+   "G4": 0,
+   "G5": 2,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 1,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 113,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 0,
+   "G3": 0,
+   "G4": 1,
+   "G5": 2,
+   "G6": 1,
+   "G7": 2
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 1,
+   "P2": 2,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G5",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P2",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 114,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 2,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 115,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 3,
+   "G3": 0,
+   "G4": 1,
+   "G5": 0,
+   "G6": 3,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 1,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 116,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 1,
+   "G3": 0,
+   "G4": 0,
+   "G5": 3,
+   "G6": 2,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 0,
+   "P3": 3
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G5",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 117,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 1,
+   "G3": 2,
+   "G4": 0,
+   "G5": 1,
+   "G6": 3,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 3,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 118,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 1,
+   "G3": 2,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 1,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 119,
+  "gene_level": {
+   "G0": 2,
+   "G1": 0,
+   "G2": 3,
+   "G3": 0,
+   "G4": 0,
+   "G5": 1,
+   "G6": 0,
+   "G7": 3
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G0",
+   "G2",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 120,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 0,
+   "G3": 3,
+   "G4": 2,
+   "G5": 2,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 0,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3",
+   "G4",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 121,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 0,
+   "G3": 2,
+   "G4": 3,
+   "G5": 0,
+   "G6": 2,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 1,
+   "P2": 3,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G3",
+   "G4",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 122,
+  "gene_level": {
+   "G0": 1,
+   "G1": 1,
+   "G2": 1,
+   "G3": 1,
+   "G4": 1,
+   "G5": 3,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 0,
+   "P3": 3
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 123,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 0,
+   "G3": 1,
+   "G4": 0,
+   "G5": 3,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 1,
+   "P2": 0,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 124,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 2,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 2,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G2"
+  ],
+  "elevated_pathways": [
+   "P1",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 125,
+  "gene_level": {
+   "G0": 2,
+   "G1": 0,
+   "G2": 0,
+   "G3": 2,
+   "G4": 0,
+   "G5": 1,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 126,
+  "gene_level": {
+   "G0": 3,
+   "G1": 0,
+   "G2": 0,
+   "G3": 2,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 2
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G3",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 127,
+  "gene_level": {
+   "G0": 1,
+   "G1": 1,
+   "G2": 3,
+   "G3": 0,
+   "G4": 0,
+   "G5": 2,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 0,
+   "P3": 3
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G2",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 128,
+  "gene_level": {
+   "G0": 2,
+   "G1": 1,
+   "G2": 3,
+   "G3": 0,
+   "G4": 1,
+   "G5": 1,
+   "G6": 1,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G0",
+   "G2"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 129,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 0,
+   "G3": 1,
+   "G4": 1,
+   "G5": 0,
+   "G6": 3,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 130,
+  "gene_level": {
+   "G0": 1,
+   "G1": 2,
+   "G2": 1,
+   "G3": 0,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 2
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 2,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 131,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 1,
+   "G3": 0,
+   "G4": 0,
+   "G5": 3,
+   "G6": 0,
+   "G7": 2
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 0,
+   "P3": 3
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G5",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 132,
+  "gene_level": {
+   "G0": 1,
+   "G1": 0,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 2,
+   "G6": 2,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 1,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G5",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 133,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 0,
+   "G3": 2,
+   "G4": 1,
+   "G5": 1,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 3,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P1",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 134,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 0,
+   "G3": 2,
+   "G4": 0,
+   "G5": 1,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 1,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 135,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 2,
+   "G3": 1,
+   "G4": 1,
+   "G5": 2,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 0,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G2",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G5",
+   "P3",
+   "H1"
+  ]
+ },
+ {
+  "id": 136,
+  "gene_level": {
+   "G0": 3,
+   "G1": 0,
+   "G2": 1,
+   "G3": 1,
+   "G4": 1,
+   "G5": 1,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 1,
+   "P3": 2
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P3"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 137,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 1,
+   "G3": 2,
+   "G4": 0,
+   "G5": 0,
+   "G6": 1,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 138,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 3,
+   "G3": 0,
+   "G4": 0,
+   "G5": 3,
+   "G6": 1,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 139,
+  "gene_level": {
+   "G0": 0,
+   "G1": 3,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 3,
+   "P2": 1,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 140,
+  "gene_level": {
+   "G0": 1,
+   "G1": 2,
+   "G2": 0,
+   "G3": 2,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 0,
+   "P2": 3,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1",
+   "G3"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 141,
+  "gene_level": {
+   "G0": 0,
+   "G1": 0,
+   "G2": 0,
+   "G3": 1,
+   "G4": 0,
+   "G5": 0,
+   "G6": 3,
+   "G7": 2
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G6",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 142,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 2,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 1,
+   "G7": 2
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 0,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G2",
+   "G7"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G2",
+   "P0",
+   "H2"
+  ]
+ },
+ {
+  "id": 143,
+  "gene_level": {
+   "G0": 0,
+   "G1": 2,
+   "G2": 0,
+   "G3": 1,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 3,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 1,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G1"
+  ],
+  "elevated_pathways": [
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H1"
+  ],
+  "true_rule": [
+   "G1",
+   "P1",
+   "H1"
+  ]
+ },
+ {
+  "id": 144,
+  "gene_level": {
+   "G0": 3,
+   "G1": 1,
+   "G2": 0,
+   "G3": 1,
+   "G4": 0,
+   "G5": 1,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 1,
+   "P2": 0,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 145,
+  "gene_level": {
+   "G0": 1,
+   "G1": 3,
+   "G2": 2,
+   "G3": 0,
+   "G4": 0,
+   "G5": 1,
+   "G6": 2,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 0,
+   "P1": 0,
+   "P2": 2,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 0,
+   "H1": 0,
+   "H2": 1
+  },
+  "elevated_genes": [
+   "G1",
+   "G2",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H2"
+  ],
+  "true_rule": [
+   "G6",
+   "P2",
+   "H2"
+  ]
+ },
+ {
+  "id": 146,
+  "gene_level": {
+   "G0": 0,
+   "G1": 1,
+   "G2": 2,
+   "G3": 3,
+   "G4": 0,
+   "G5": 2,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 1,
+   "P1": 3,
+   "P2": 3,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G2",
+   "G3",
+   "G5"
+  ],
+  "elevated_pathways": [
+   "P1",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G3",
+   "P2",
+   "H0"
+  ]
+ },
+ {
+  "id": 147,
+  "gene_level": {
+   "G0": 2,
+   "G1": 0,
+   "G2": 1,
+   "G3": 0,
+   "G4": 1,
+   "G5": 0,
+   "G6": 0,
+   "G7": 1
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 1,
+   "P2": 2,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P2"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 148,
+  "gene_level": {
+   "G0": 3,
+   "G1": 0,
+   "G2": 1,
+   "G3": 0,
+   "G4": 0,
+   "G5": 0,
+   "G6": 0,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 2,
+   "P1": 0,
+   "P2": 0,
+   "P3": 1
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0"
+  ],
+  "elevated_pathways": [
+   "P0"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ },
+ {
+  "id": 149,
+  "gene_level": {
+   "G0": 2,
+   "G1": 0,
+   "G2": 0,
+   "G3": 0,
+   "G4": 0,
+   "G5": 3,
+   "G6": 2,
+   "G7": 0
+  },
+  "pathway_level": {
+   "P0": 3,
+   "P1": 3,
+   "P2": 1,
+   "P3": 0
+  },
+  "pheno_present": {
+   "H0": 1,
+   "H1": 0,
+   "H2": 0
+  },
+  "elevated_genes": [
+   "G0",
+   "G5",
+   "G6"
+  ],
+  "elevated_pathways": [
+   "P0",
+   "P1"
+  ],
+  "present_phenotypes": [
+   "H0"
+  ],
+  "true_rule": [
+   "G0",
+   "P0",
+   "H0"
+  ]
+ }
+]
